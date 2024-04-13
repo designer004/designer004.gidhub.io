@@ -1,0 +1,28 @@
+div .mainDiv{
+    align-self: center;
+}
+
+
+.Howl{
+    padding: 50px;
+    display: block;
+    margin: auto;
+    size: 100px;
+}
+
+
+.text{
+    padding: 50px;
+    color: #1E2742;
+}
+
+
+
+.container{
+    padding: 30px;
+    display: flex;
+    align-content: center;
+    margin: 20px;
+    width: 200%;
+}
+
