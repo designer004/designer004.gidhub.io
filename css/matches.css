@@ -1,42 +1,50 @@
-div .mainDiv{
-    align-self: center;
-}
-
-
-.Howl{
-    padding: 50px;
-    display: block;
-    margin: auto;
-    size: 100px;
-}
-
 
 .text{
     padding: 50px;
     color: #1E2742;
+    font-size: 500%;
+    
 }
 
+.clubs{
+    padding: 50px;
+}
 
-.shop{
+.clubs {
+    padding: 50px;
+}
+
+.clubs{
     box-align: center;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
     text-align: center;
 }
 
-.shop{
+.clubs{
 
     display: grid;
     background-color: #ffffff;
+
 }
 
-.shop{
+.clubs{
     grid-template-columns: 2fr 2fr 2fr;
     grid-column-gap: 20px;
 }
 
 
-.shop img{
-    width: 50%;
+.clubs img{
+    width: 80%;
     text-align: center;
+    display: block;
+    margin: auto;
+    size: 100px;
+}
+
+
+.score{
+    display: block;
+    margin: auto;
+    font-size:  100px;
 }
