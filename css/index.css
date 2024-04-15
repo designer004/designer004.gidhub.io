@@ -17,12 +17,22 @@ div .mainDiv{
 }
 
 
-
-.container{
-    padding: 30px;
-    display: flex;
-    align-content: center;
-    margin: 20px;
-    width: 200%;
+div .container{
+    padding: 50px;
+    flex: 10px;
+    scale: 50px;
 }
 
+
+
+.kithome{
+    border: 10px #1E2742;
+    background-color: #EEEEEF;
+    width: 10cm;
+    height: 10cm;
+}
+
+
+.boot{
+    border: 10px #1E2742;
+}
