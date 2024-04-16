@@ -1,4 +1,6 @@
-
+.clubs{
+    padding: 50px;
+}
 .text{
     padding: 50px;
     color: #1E2742;
@@ -15,6 +17,8 @@
 }
 
 .clubs{
+    width: 40%;
+    margin-left: 30%;
     box-align: center;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
@@ -35,11 +39,11 @@
 
 
 .clubs img{
-    width: 80%;
+    width: 70%;
     text-align: center;
     display: block;
     margin: auto;
-    size: 100px;
+    size: 10px;
 }
 
 

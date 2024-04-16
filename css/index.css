@@ -7,17 +7,20 @@ div .mainDiv{
     padding: 50px;
     display: block;
     margin: auto;
-    size: 100px;
+    
 }
 
 
 .text{
     padding: 50px;
     color: #1E2742;
+    font-size: 400%;
+    margin-left: 3%;
 }
 
 
 .shop{
+    margin-left: 5%;
     box-align: center;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
@@ -37,6 +40,11 @@ div .mainDiv{
 
 
 .shop img{
-    width: 50%;
+    margin-left: 17%;
+    width: 60%;
     text-align: center;
+}
+
+.shop img .boot{
+    margin-top: 50%;
 }
