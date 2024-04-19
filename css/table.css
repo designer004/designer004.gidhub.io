@@ -1,0 +1,19 @@
+.text{
+    padding: 50px;
+    color: #1E2742;
+    font-size: 500%;
+}
+
+
+.table{
+    padding: 50px;
+    
+}
+
+td, th{
+    border: 1px solid black;
+}
+
+.team{
+    width: 10%;
+}

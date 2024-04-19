@@ -3,3 +3,17 @@
     color: #1E2742;
     font-size: 500%;
 }
+
+
+
+.squad .gk {
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 20%
+}
+
+.gk img{
+    box-align: center;
+    border: 10px solid #9a9a9b;
+    border-radius: 30px;
+}

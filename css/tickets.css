@@ -1,0 +1,16 @@
+.text{
+    padding: 50px;
+    color: #1E2742;
+    font-size: 400%;
+    margin-left: 50px;
+}
+
+
+.stadium{
+    padding: 50px;
+    display: block;
+    margin-left: 50px;
+    text-align: center;
+    width: 40%;
+}
+
