@@ -5,15 +5,13 @@
 }
 
 
+
+
+
+
+
 .table{
-    padding: 50px;
-    
-}
-
-td, th{
-    border: 1px solid black;
-}
-
-.team{
-    width: 10%;
+    float: left;
+    width: 100%;
+    margin-right: 10%;
 }

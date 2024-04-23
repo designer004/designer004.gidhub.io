@@ -6,6 +6,12 @@
 }
 
 
+body .container{
+    padding: 50px;
+
+
+}
+
 .logo{
     padding: 50px;
     flex: right;
@@ -17,8 +23,7 @@
 
 .Orlando{
     padding: 50px;
-    flex: right;
-    flex: 50%;
+    display: inline-block;
     border: 10px solid #9a9a9b;
     background-color: white;
     border-radius: 30px;
@@ -27,8 +32,19 @@
 
 .rb{
     padding: 50px;
+    display: flex;
     border: 10px solid #9a9a9b;
     background-color: white;
     border-radius: 30px;
-    width: 635px;
+    width: 435px;
+    align-items: center;
+}
+
+.text2{ 
+    padding: 50px;
+    display: flexbox;
+    color: #1E2742;
+    text-align: center;
+    margin-top: 50px;
+
 }
