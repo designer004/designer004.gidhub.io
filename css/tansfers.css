@@ -1,0 +1,34 @@
+.text{
+    padding: 50px;
+    color: #1E2742;
+    font-size: 400%;
+    margin-left: 50px;
+}
+
+
+.logo{
+    padding: 50px;
+    flex: right;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 5%;
+}
+
+.Orlando{
+    padding: 50px;
+    flex: right;
+    flex: 50%;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    border-radius: 30px;
+    width: 435px;
+}
+
+.rb{
+    padding: 50px;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    border-radius: 30px;
+    width: 635px;
+}

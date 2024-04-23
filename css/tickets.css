@@ -14,3 +14,70 @@
     width: 20%;
 }
 
+.h2{
+    padding: 50px;
+    font-size: 300%;
+    color: #1E2742;
+
+}
+
+div .tickets .B10 .A1 .D1 .f2 .h2 {
+    flex: auto;
+    font-size: 400%;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+}
+
+
+.A1{
+    padding: 50px;
+    margin-left: 2.5%;
+    flex: right;
+    font-size: 400%;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    text-align: center;
+    width: 30%
+    
+}
+
+.B10{
+    padding: 50px;
+    display: grid;
+    flex: right;
+
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    color: #3f7548;
+    font-size: 400%;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    text-align: center;
+    width: 30%
+}
+
+.D1{
+    padding: 50px;
+    display: grid;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    color: #73b5cf;
+    font-size: 400%;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    text-align: center;
+    width: 30%
+}
+
+.f2{
+    padding: 50px;
+    display: grid;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    color: #d7cb3f;
+    font-size: 400%;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    text-align: center;
+    width: 30%
+}
