@@ -3,6 +3,7 @@
 }
 .text{
     padding: 50px;
+    margin-left: 55px;
     color: #1E2742;
     font-size: 400%;
     
@@ -51,4 +52,19 @@
     display: block;
     margin: auto;
     font-size:  100px;
+}
+
+div .footer{
+    padding: 50px;
+    background-color: #1E2742;
+    text-align: center;
+    color: #9a9a9b;
+    font-size: 30px
+
+}
+
+div .img{
+    background-color: #1E2742;
+    float: right;
+    width: 3opx;
 }
