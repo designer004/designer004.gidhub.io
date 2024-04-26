@@ -1,0 +1,108 @@
+.card{
+    border: 3%;
+    border-color: azure;
+}
+
+.h1{
+        padding: 50px;
+        color: #1E2742;
+        font-size: 500%
+}
+
+.card-img-top{
+    padding: 50px;
+    background-color: aliceblue;
+    border-radius: 30px;
+    border: 30% ;
+    border: solid #1E2742;
+    width: 100%;
+    margin-left: 20px;
+
+}
+
+.container{
+    
+}
+
+.title{
+    padding: 50px;
+    border: 30px;
+    text-align: center;
+}
+
+.link{
+    padding: 50px;
+    text-align: center;
+}
+
+
+.card2{
+    display: grid;
+}
+
+
+.kit2{
+    padding: 50px;
+    background-color: aliceblue;
+    border: 30% ;
+    border-radius: 30px;
+    border: solid #1E2742;
+    width: 93%;
+    margin-left: 40px;
+}
+
+.kit3{
+    padding: 50px;
+    background-color: aliceblue;
+    border: 30% ;
+    border-radius: 30px;
+    border: solid #1E2742;
+    width: 94%;
+    margin-left: 40px;
+
+}
+
+
+.kit4{
+    padding: 50px;
+    background-color: aliceblue;
+    border: 30% ;
+    border: solid #1E2742;
+    width: 50%;
+    margin-left: 40px;
+
+}
+
+.flag{
+    padding: 50px;
+    background-color: aliceblue;
+    border: 30% ;
+    border-radius: 30px;
+    border: solid #1E2742;
+    width: 109%;
+    column-width:30px;
+    margin-left: 40px;
+}
+
+
+.boot2{
+    padding: 50px;
+    background-color: aliceblue;
+    border: 30% ;
+    border-radius: 30px;
+    border: solid #1E2742;
+    width: 157%;
+    column-width:10px;
+    margin-left: 100px;
+}
+
+
+.shop{
+    display: flex;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+}
