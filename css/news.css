@@ -2,39 +2,63 @@
     padding: 30px;
 }
 
-.clubs{
+.text{
+    padding: 20px;
+    margin-left: 55px;
+    color: #1E2742;
+    font-size: 400%;
+    
+}
+
+.news{
     width: 50%;
     margin-top: 30px;
-    margin-left: 30%;
-    box-align: center;
+    margin-left: 20%;
+    text-align: justify;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
 }
 
-.clubs{
+.news{
 
     display: grid;
     background-color: #ffffff;
 
 }
 
-.clubs{
-    grid-template-columns: 5fr 5fr 5fr;
-    grid-column-gap: 20px;
+.news{
+
+    display: flex;
+
 }
 
 
-.clubs img{
-    width: 70%;
-    margin: auto;
-    size: 10px;
+.news img{
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    object-fit: contain;
+}
+
+.sign{
+    width: 70px;
+
 }
 
 
-.score{
+.txt{
     display: block;
-    margin: auto;
+    margin-top: 50px;
+    margin-left: 10px;
+    text-align: center;
     font-size:  50px;
-    color:  #141E33;
-    float: right;
+    color:  #141E33;    
 }
+
+ .div{
+    resize: both;
+    overflow: auto;
+    width: 10px;
+}
+
