@@ -21,6 +21,8 @@
 }
 
 .container{
+    align-content: center;
+    text-align: center;
     
 }
 
@@ -105,4 +107,10 @@
 .title{
     text-align: center;
     font-size: 30px;
+}
+
+
+.link{
+    color: #1E2742;
+    te
 }

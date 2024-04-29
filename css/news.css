@@ -1,0 +1,40 @@
+.clubs {
+    padding: 30px;
+}
+
+.clubs{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 30%;
+    box-align: center;
+    border: 10px solid #9a9a9b;
+    border-radius: 30px;
+}
+
+.clubs{
+
+    display: grid;
+    background-color: #ffffff;
+
+}
+
+.clubs{
+    grid-template-columns: 5fr 5fr 5fr;
+    grid-column-gap: 20px;
+}
+
+
+.clubs img{
+    width: 70%;
+    margin: auto;
+    size: 10px;
+}
+
+
+.score{
+    display: block;
+    margin: auto;
+    font-size:  50px;
+    color:  #141E33;
+    float: right;
+}
