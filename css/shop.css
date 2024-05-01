@@ -79,29 +79,3 @@ h5 {
 }
 
 
-.title{
-    padding: 50px;
-    margin-left: 25px;
-    color: #1E2742;
-    font-size: 500%;
-}
-
-.text{
-    padding: 50px;
-    text-align: center;
-    color: #1E2742;
-    font-size: 500%;
-    
-}
-
-.Pay{
-    padding: 50px;
-    margin-top: 8%;
-    text-align: center;
-    color: #1E2742;
-    font-size: 500%;
-    background-color: #fcfcfc;
-    border-radius: 30px;
-    border: 10px dashed #9a9a9b;
-    
-}
