@@ -48,3 +48,74 @@ div .mainDiv{
 .shop img .boot{
     margin-top: 50%;
 }
+
+
+/**Players tab**/
+
+.players{
+    margin-left: 5%;
+    box-align: center;
+    border: 10px solid #9a9a9b;
+    border-radius: 30px;
+}
+
+.players{
+
+    display: grid;
+    background-color: #ffffff;
+}
+
+.players{
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-column-gap: 20px;
+}
+
+
+.players img{
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 90%;
+    text-align: center;
+}
+
+.players img .in1{
+    margin-top: 50%;
+}
+
+.players img .done2{
+    margin-top: 50%;
+}
+
+
+
+
+
+/**transfers tab**/
+
+.transfers{
+    margin-left: 5%;
+    box-align: center;
+    border: 10px solid #9a9a9b;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.transfers{
+
+    display: grid;
+    background-color: #ffffff;
+}
+
+.transfers{
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-column-gap: 20px;
+}
+
+
+.transfers img{
+    margin-top: 30%;
+    margin-left: 5%;
+    width: 90%;
+    text-align: center;
+}
+
