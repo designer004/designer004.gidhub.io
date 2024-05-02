@@ -25,6 +25,8 @@ div .mainDiv{
     border: 10px solid #9a9a9b;
     border-radius: 30px;
     text-align: center;
+    padding: 50px;
+
 }
 
 .shop{
@@ -57,6 +59,8 @@ div .mainDiv{
     box-align: center;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
+    padding: 50px;
+
 }
 
 .players{
@@ -72,10 +76,8 @@ div .mainDiv{
 
 
 .players img{
-    margin-top: 10%;
-    margin-left: 5%;
-    width: 90%;
-    text-align: center;
+    margin-left: 10%;
+    width: 80%;
 }
 
 .players img .in1{
@@ -97,7 +99,8 @@ div .mainDiv{
     box-align: center;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
-    text-align: center;
+    padding: 50px;
+
 }
 
 .transfers{
@@ -115,7 +118,111 @@ div .mainDiv{
 .transfers img{
     margin-top: 30%;
     margin-left: 5%;
+    margin-bottom: 15%;
     width: 90%;
+    text-align: center;
+}
+
+/**news tab**/
+
+.news{
+    margin-left: 5%;
+    box-align: center;
+    border: 10px solid #9a9a9b;
+    border-radius: 30px;
+    padding: 50px;
+
+}
+
+.news{
+
+    display: grid;
+    background-color: #ffffff;
+}
+
+.news{
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-column-gap: 20px;
+}
+
+
+.news img{
+    margin: auto;   
+    width: 60%;
+}
+
+
+/**matches tab**/
+
+.matches{
+    margin-left: 5%;
+    box-align: center;
+    border: 10px solid #9a9a9b;
+    border-radius: 30px;
+    padding: 50px;
+
+}
+
+.matches{
+
+    display: grid;
+    background-color: #ffffff;
+}
+
+.matches{
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-column-gap: 20px;
+}
+
+
+.matches img{
+    margin-top: 25%;
+    margin-bottom: 20%;
+    margin-left: 5%;    
+    width: 90%;
+}
+
+
+/**tickets tab**/
+
+.tickets{
+    margin-left: 5%;
+    box-align: center;
+    border: 10px solid #9a9a9b;
+    border-radius: 30px;
+    text-align: center;
+    padding: 50px;
+    font-size: 400%;
+    margin-left: 3%;
+}
+
+.a5{
+    color: #C1D237;
+}
+
+.i2{
+    color: #E9CC3A;
+}
+
+.g2{
+    color: #C44F4F;
+}
+
+.tickets{
+    display: grid;
+    background-color: #ffffff;
+
+}
+
+.tickets{
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-column-gap: 20px;
+}
+
+
+.tickets img{
+    margin-left: 17%;
+    width: 60%;
     text-align: center;
 }
 
