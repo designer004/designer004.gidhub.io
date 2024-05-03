@@ -10,8 +10,15 @@
     
 }
 
+
+.layout{
+    padding: 50px;
+    object-fit: contain;
+}
+
 .news{
     width: 50%;
+    padding: 40px;
     margin-top: 30px;
     margin-left: 20%;
     text-align: justify;
@@ -62,3 +69,21 @@
     width: 10px;
 }
 
+/**links to other pages **/
+
+
+.link:hover{
+    color: #fefefe;
+    text-decoration: none;
+    
+}
+
+.link{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #1E2742;
+    color: #C1D237;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 1px;
+    
+}

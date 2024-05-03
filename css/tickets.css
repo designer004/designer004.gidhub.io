@@ -14,10 +14,28 @@
     width: 20%;
 }
 
+.tickets{
+    object-fit: contain;
+    padding: 50px;
+    margin-top: 10px;
+    display: flex;
+
+}
+
+.layout{
+    display: flexbox;
+}
+
+.contain{
+    object-fit: contain;
+    display: grid;
+}
+
 .h2{
     padding: 50px;
     font-size: 300%;
     color: #1E2742;
+    
 
 }
 
@@ -32,10 +50,12 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
 .A1{
     padding: 50px;
     margin-left: 2.5%;
+    margin-top: 30px;   
     flex: right;
     font-size: 400%;
     border: 10px solid #9a9a9b;
     background-color: white;
+    color: #C1C921;
     text-align: center;
     width: 30%
     
@@ -45,9 +65,9 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
     padding: 50px;
     display: grid;
     flex: right;
-
     margin-left: 2.5%;
     margin-right: 2.5%;
+    margin-top: 30px;   
     color: #3f7548;
     font-size: 400%;
     border: 10px solid #9a9a9b;
@@ -61,6 +81,8 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
     display: grid;
     margin-left: 2.5%;
     margin-right: 2.5%;
+    margin-top: 30px;   
+
     color: #73b5cf;
     font-size: 400%;
     border: 10px solid #9a9a9b;
@@ -74,10 +96,70 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
     display: grid;
     margin-left: 2.5%;
     margin-right: 2.5%;
+    margin-top: 30px;   
+
     color: #d7cb3f;
     font-size: 400%;
     border: 10px solid #9a9a9b;
     background-color: white;
     text-align: center;
     width: 30%
+}
+
+
+.G2{
+    padding: 50px;
+    display: grid;
+    flex: right;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 30px;   
+    color: #C44F4F;
+    font-size: 400%;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    text-align: center;
+    width: 30%
+}
+
+.H1{
+    padding: 50px;
+    display: grid;
+    flex: right;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 30px;   
+    color: #99C44F;
+    font-size: 400%;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    text-align: center;
+    width: 30%
+}
+
+
+
+
+
+
+
+
+
+/**links to other pages **/
+
+
+.link:hover{
+    color: #fefefe;
+    text-decoration: none;
+    
+}
+
+.link{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #1E2742;
+    color: #C1D237;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 1px;
+    
 }

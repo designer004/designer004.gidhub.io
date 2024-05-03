@@ -5,12 +5,26 @@
     font-size: 500%;
 }
 
-
-body .container{
+.rumor{
+    display: flex;
+    margin:auto ;
     padding: 50px;
+    width: 80%;
+}
 
+.text2{ 
+    padding: 160px;
+    color: #1E2742;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2{
+    width: 100%;
 
 }
+
+
 
 .logo{
     padding: 50px;
@@ -40,11 +54,35 @@ body .container{
     align-items: center;
 }
 
-.text2{ 
-    padding: 50px;
-    display: flexbox;
-    color: #1E2742;
-    text-align: center;
-    margin-top: 50px;
 
+
+.rb{
+    padding: 50px;
+    flex: right;
+    border: 10px solid #9a9a9b;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 5%;
+    object-fit: contain;
+    width: 35%;
+}
+
+
+/**links to other pages **/
+
+
+.link:hover{
+    color: #fefefe;
+    text-decoration: none;
+    
+}
+
+.link{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #1E2742;
+    color: #C1D237;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 1px;
+    
 }

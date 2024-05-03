@@ -25,7 +25,6 @@ div .mainDiv{
     border: 10px solid #9a9a9b;
     border-radius: 30px;
     text-align: center;
-    padding: 50px;
 
 }
 
@@ -59,7 +58,6 @@ div .mainDiv{
     box-align: center;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
-    padding: 50px;
 
 }
 
@@ -99,7 +97,6 @@ div .mainDiv{
     box-align: center;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
-    padding: 50px;
 
 }
 
@@ -118,7 +115,7 @@ div .mainDiv{
 .transfers img{
     margin-top: 30%;
     margin-left: 5%;
-    margin-bottom: 15%;
+    margin-bottom: 10%;
     width: 90%;
     text-align: center;
 }
@@ -130,7 +127,6 @@ div .mainDiv{
     box-align: center;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
-    padding: 50px;
 
 }
 
@@ -147,7 +143,9 @@ div .mainDiv{
 
 
 .news img{
-    margin: auto;   
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 20%;
     width: 60%;
 }
 
@@ -159,7 +157,6 @@ div .mainDiv{
     box-align: center;
     border: 10px solid #9a9a9b;
     border-radius: 30px;
-    padding: 50px;
 
 }
 
@@ -193,22 +190,31 @@ div .mainDiv{
     text-align: center;
     padding: 50px;
     font-size: 400%;
-    margin-left: 3%;
 }
 
 .a5{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%; 
     color: #C1D237;
 }
 
 .i2{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%; 
     color: #E9CC3A;
 }
 
 .g2{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%; 
     color: #C44F4F;
 }
 
 .tickets{
+
     display: grid;
     background-color: #ffffff;
 
@@ -221,8 +227,53 @@ div .mainDiv{
 
 
 .tickets img{
-    margin-left: 17%;
     width: 60%;
     text-align: center;
 }
 
+/**table tab**/
+
+.table{
+    margin-left: 5%;
+    box-align: center;
+    border: 10px solid #9a9a9b;
+    border-radius: 30px;
+
+}
+
+.table{
+
+    display: grid;
+    background-color: #ffffff;
+}
+
+.table{
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-column-gap: 20px;
+}
+
+
+.table img{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 25%;    
+    width: 60%;
+}
+
+
+/**links to other pages **/
+
+
+.link:hover{
+    color: #fefefe;
+    text-decoration: none;
+    
+}
+
+.link{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #1E2742;
+    color: #C1D237;
+    text-decoration: none;
+    
+}
