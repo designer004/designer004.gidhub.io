@@ -44,6 +44,8 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
     font-size: 400%;
     border: 10px solid #9a9a9b;
     background-color: white;
+    object-fit: contain;
+    margin: auto;
 }
 
 
@@ -52,12 +54,14 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
     margin-left: 2.5%;
     margin-top: 30px;   
     flex: right;
+    text-decoration: none;
     font-size: 400%;
     border: 10px solid #9a9a9b;
     background-color: white;
     color: #C1C921;
     text-align: center;
     width: 30%
+
     
 }
 
@@ -162,4 +166,47 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
     margin-right: 30px;
     margin-left: 1px;
     
+}
+
+
+/** a5 ticket seat page **/
+
+
+.stadiuma5{
+    padding: 50px;
+    display: block;
+    margin-left: 50px;
+    text-align: center;
+    width: 89%;
+}
+
+
+
+.back{
+    padding: 50px;
+    text-decoration: none;
+    font-size: 400%;
+    color: #1E2742;
+    width: 500%
+}
+
+.acc{
+    text-decoration: none;
+    font-size: 400%;
+    color: #1E2742;
+    width: 500%
+}
+
+
+.options{
+    margin: auto;
+    display: block; 
+    text-align: right;
+}
+
+
+.booked{
+    padding: auto;
+    text-align: center;
+    width: 15cm;
 }

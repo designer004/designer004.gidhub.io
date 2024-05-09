@@ -76,3 +76,9 @@ main section{
     display: block;
     margin: auto;
 }
+
+@media screen and (min-width:400px){
+    .body{
+        display: flex;
+    }
+}
