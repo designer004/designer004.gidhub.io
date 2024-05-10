@@ -177,7 +177,7 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
     display: block;
     margin-left: 50px;
     text-align: center;
-    width: 89%;
+    width: 90%;
 }
 
 
@@ -186,21 +186,28 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
     padding: 50px;
     text-decoration: none;
     font-size: 400%;
-    color: #1E2742;
+    color: #292929;
+    background-color:#bb2727 ;
+    border: 10px solid #9a9a9b;
+    padding: 10px;
+    border-radius: 20px;
     width: 500%
 }
 
 .acc{
     text-decoration: none;
+    background-color:#27bb45 ;
+    border: 10px solid #9a9a9b;
+    padding: 10px;
+    border-radius: 20px;
     font-size: 400%;
     color: #1E2742;
     width: 500%
 }
 
 
-.options{
-    margin: auto;
-    display: block; 
+.opitions{
+    display: block;
     text-align: right;
 }
 
