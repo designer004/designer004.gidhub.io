@@ -205,8 +205,9 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
 }
 
 
+
 .booked{
     padding: auto;
     text-align: center;
-    width: 15cm;
+    font-size: 50px;
 }

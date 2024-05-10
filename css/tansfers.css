@@ -7,8 +7,7 @@
 
 .rumor{
     display: flex;
-    margin:auto ;
-    padding: 50px;
+    padding: 20px;
     width: 80%;
 }
 
@@ -17,6 +16,7 @@
     color: #1E2742;
     text-align: center;
     margin-top: 50px;
+    font-size: 300%;
 }
 
 h2{
@@ -33,6 +33,8 @@ h2{
     background-color: white;
     border-radius: 30px;
     margin-left: 5%;
+    width: 35%;
+    object-fit: contain;
 }
 
 .Orlando{
