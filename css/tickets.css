@@ -199,16 +199,19 @@ div .tickets .B10 .A1 .D1 .f2 .h2 {
     background-color:#27bb45 ;
     border: 10px solid #9a9a9b;
     padding: 10px;
+    margin: 50px;
     border-radius: 20px;
     font-size: 400%;
     color: #1E2742;
     width: 500%
+    
 }
 
 
 .opitions{
+    padding: 20px;
     display: block;
-    text-align: right;
+    text-align: center;
 }
 
 
