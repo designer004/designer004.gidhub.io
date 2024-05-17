@@ -1,0 +1,80 @@
+h1{
+    padding: 50px;
+    color: #1E2742;
+    font-size: 400%;
+    margin-left: 50px;
+}
+
+.contact{
+    padding: 50px;
+    margin-left: 50px;
+    font-size: 30px;
+
+}
+
+
+.contactus .button{
+    cursor: pointer;
+    padding: 1em;
+    width: auto;
+}
+
+.contactus .clear{
+    background-color: #ff4a4a;
+    border: 5px solid #000000;
+    
+}
+
+
+.contactus :invalid{
+    border-color:rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+.contact-form :invalid::placeholder{
+    color: rgb(255, 0, 0);
+}
+
+
+.contact-form .button{
+    cursor: pointer;
+    padding: 1em;
+    width: auto;
+}
+
+
+.contact-form :invalid::placeholder{
+    color: rgb(255, 0, 0);
+}
+
+.button.submit {
+    background-color: #46ff09;
+    color: #1E2742;
+    padding: .1em;
+    padding-left: .7em;
+    padding-right: .7em;
+    text-align: center;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.button:hover {
+    background-color: #d1e41e;
+    size: 10px;
+}
+
+.input{
+    margin-left: 10px;
+}
+
+.button{
+    border-color: 30px solid #1E2742;
+    width: 100px;
+    background-color: #ff0000;
+    font-size: 25px;
+    margin-left: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #1E2742;
+    text-align: center;
+
+
+}

@@ -19,6 +19,13 @@ div .mainDiv{
 }
 
 
+.texts{
+    padding: 50px;
+    color: #1E2742;
+    font-size: 400%;
+    margin-left: 6%;
+}
+
 .shop{
     margin-left: 5%;
     box-align: center;

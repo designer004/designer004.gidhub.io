@@ -30,10 +30,13 @@
 
     display: grid;
     background-color: #ffffff;
+    padding: 50px;
+
 
 }
 
 .news{
+    padding: 50px;
 
     display: flex;
 
